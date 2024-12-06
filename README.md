@@ -32,7 +32,7 @@
 
 - **HTML5**: Provides the structure and content of the web pages.
 - **CSS3**: Styles the website with layouts, colors, and animations to make it visually appealing.
-- **JavaScript**: For form validation and interactivity.
+- **JavaScript**: Adds dynamic behavior and interactivity to the site.
 
 ## 🚀 Project Setup
 
