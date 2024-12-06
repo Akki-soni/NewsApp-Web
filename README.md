@@ -31,7 +31,7 @@
 ## 🛠️ Technologies Used
 
 - **HTML5**: Provides the structure and content of the web pages.
-- **CSS3**: For styling the page, including layout, colors, and animations.
+- **CSS3**: Styles the website with layouts, colors, and animations to make it visually appealing.
 - **JavaScript**: For form validation and interactivity.
 
 ## 🚀 Project Setup
