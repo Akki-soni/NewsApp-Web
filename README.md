@@ -30,7 +30,7 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML5**: For creating the structure of the login page.
+- **HTML5**: Provides the structure and content of the web pages.
 - **CSS3**: For styling the page, including layout, colors, and animations.
 - **JavaScript**: For form validation and interactivity.
 
