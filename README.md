@@ -26,7 +26,7 @@
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
 - **Modern UI**: The interface is designed with a focus on simplicity and user experience.
 - **Interactive Elements**: Utilizes JavaScript to create interactive features that enhance user engagement.
-- **Stylish Layout**: Minimalistic and clean design with a modern touch.
+- **Cross-browser Compatibility**: Tested on modern web browsers like Chrome, Firefox, and Edge.
 
 ## 🛠️ Technologies Used
 
