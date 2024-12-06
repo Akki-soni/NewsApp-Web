@@ -24,7 +24,7 @@
 ## 🛠️ Features
 
 - **Responsive Design**: The website is fully responsive, ensuring a seamless experience across different devices and screen sizes.
-- **Smooth Animations**: Subtle animations on input fields and buttons for a modern look and feel.
+- **Modern UI**: The interface is designed with a focus on simplicity and user experience.
 - **Form Validation**: Basic client-side form validation using JavaScript to ensure correct input.
 - **Stylish Layout**: Minimalistic and clean design with a modern touch.
 
