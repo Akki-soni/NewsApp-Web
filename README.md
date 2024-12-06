@@ -39,8 +39,8 @@
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Modern-Login-Page-Web.git>
-cd Modern Login Page
+git clone <https://github.com/Akki-soni/NewsApp-Web.git>
+cd NewsApp-Web
 open index.html
 ```
 
