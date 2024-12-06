@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  A modern and responsive login page built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates a clean, minimalistic design with smooth animations and a user-friendly interface.
+  This is a modern, responsive website built using HTML, CSS, and JavaScript. The website is designed to provide an engaging and interactive user experience with a clean interface and smooth functionality.
 </p>
 
 ## 🛠️ Features
