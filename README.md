@@ -44,12 +44,19 @@ cd Modern Login Page
 open index.html
 ```
 
-## 🚀 Project Structure
+## 🚀 Usage
 
-```
-├── index.html  # The main HTML file
-├── style.css   # The CSS file for styling
-└── script.js  # The JavaScript file for functionality
+Simply open the website in any modern browser to explore the various features. The website adjusts itself based on the device or screen size being used.
+
+## 🚀 File Structure
+
+```bash
+my-website/
+│
+├── index.html       # The main HTML page
+├── styles.css       # Stylesheet for the website
+├── script.js        # JavaScript file for interactivity
+└── assets/          # Folder containing images, fonts, etc.
 ```
 
 ## 🌟 Screenshots
