@@ -61,7 +61,7 @@ my-website/
 
 ## 🌟 Screenshots
 
-![Modern_Login_Page-Screenshot](/MLP_Screenshot.png)
+![NewsApp-Screenshot](/NA_Screenshot.png)
 
 ## 🔗 Live Demo
 
