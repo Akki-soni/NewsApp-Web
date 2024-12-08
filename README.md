@@ -65,7 +65,7 @@ my-website/
 
 ## 🔗 Live Demo
 
-[View Live Demo]()
+[View Live Demo](https://news-app-web-blond.vercel.app/)
 
 ## 🤝 Contributing
 
